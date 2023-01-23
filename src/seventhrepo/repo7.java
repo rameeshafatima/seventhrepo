@@ -7,6 +7,7 @@ public class repo7 {
 		System.out.println("multiplication");
 		System.out.println("Poll scm is the part of jenkins");
 		System.out.println(86-68);
+		System.out.println("repository");
 
 	}
 
